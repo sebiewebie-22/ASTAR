@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/worldImages">
+        <file alias="maze1.png">maze1.png</file>
+        <file alias="maze2.png">maze2.png</file>
+        <file alias="maze3.png">maze3.png</file>
+        <file alias="worldmap.png">worldmap.png</file>
+        <file alias="worldmap4.png">worldmap4.png</file>
+        <file>simple1.png</file>
+        <file alias="protagonist.png">protagonist.png</file>
+        <file alias="enemy.png">enemy.png</file>
+        <file alias="healthpack.png">healthpack.png</file>
+        <file>GreenMario.png</file>
+        <file>RedMario.png</file>
+        <file>SquichedEnemy.png</file>
+        <file>BlackHealthPack.vpp</file>
+        <file>enemyblue.png</file>
+        <file>enemyorange.png</file>
+        <file>whitetile.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>gas.png</file>
+        <file>skull.png</file>
+        <file>skull2.png</file>
+    </qresource>
+</RCC>
